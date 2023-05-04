@@ -1,18 +1,18 @@
-# :dolphin: Hao (Lily) Li :cat2:
+# 	:wave::dolphin: Hao (Lily) Li 
 Welcome to my Github Profile 
 - Currently a rising junior at East Chapel Hill High School interested in pursing a career in biomedical science
-- Love painting, making arts, playing tennis, spending time with my family, doing lab works, volunteering, and trying new tools
+- Love painting, making arts :paintbrush:, playing tennis 	:tennis:, eat/making food :cake:, travelling with my family :world_map:, doing lab works :lab_coat:, volunteering, and trying new tools
 ## 👨🏻‍💻 All About Me
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fscience&psig=AOvVaw1iTV-up3niYCppnqUIpxEE&ust=1683258076012000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCmo5Df2v4CFQAAAAAdAAAAABAJ">
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- :seedling: &nbsp; Exploring new technologies and passion in biomedical science and computer science. 
+- 🎓 &nbsp; Working towards my high school degree through East Chapel Hill High School and Associate of Science through Durham Tech College.
+- 💼 &nbsp; Working experience with UNC RENCI Team. 
+- :sparkles: &nbsp; Learning more about coding experience, cybersecurity, Artificial Intelligence, and incorporate computer strategies with biology.
+- 	:heavy_check_mark: &nbsp; Experience with outreaching, graphic design using Canva for over 4 years, and have creative skills.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;My Abilities</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -59,5 +59,3 @@ Welcome to my Github Profile
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
